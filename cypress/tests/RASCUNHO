@@ -1,0 +1,9 @@
+{"user":{"email":"chaptervcleb@mail.com","username":"chaptervcleb","bio":null,"image":null,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNoYXB0ZXJ2Y2xlYkBtYWlsLmNvbSIsInVzZXJuYW1lIjoiY2hhcHRlcnZjbGViIiwiaWF0IjoxNjU3NTc1MjI0LCJleHAiOjE2NjI3NTkyMjR9.6Q4k5DMHQ6XcELoX0apeLB7Nzsd8tzSvacIxtgMZyiQ"}}
+
+
+// GUIA DE REGRAS QUE DEVEM SER SEGUIDAS NO CÓDIGO DO NOSSO TIME
+/*
+1. toda string deve usar aspas simples
+2. não usamos ponto e vírgula no final dos blocos
+3. sempre adicionar espaço antes e depois do parenteses
+*/
