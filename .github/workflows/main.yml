@@ -19,9 +19,9 @@ jobs:
     
     steps:
      - name: Check out code
-       uses: actions/checkout@v1
+       uses: actions/checkout@v2
        
-     - name: Run E2E tests
+     - name: E2E tests
        uses: cypress-io/github-action@v5.0.5
        
      - name: Upload a Build Artifact
